@@ -9,3 +9,6 @@ Or something like it!
 * Telegram-Bots
 * Babel-CLI
 * koa 2
+* WebWorkers
+* Push API
+* Sockets
